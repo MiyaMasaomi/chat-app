@@ -99,7 +99,7 @@
 ruby 2.6.5  
 rails 6.0.3.5  
 
-git clone  https://github.com/MiyaMasaomi/chat-app.git  
+git clone https://github.com/MiyaMasaomi/chat-app.git  
 
 bundle install  
 
