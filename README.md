@@ -60,7 +60,7 @@
   メールに写真を添付/ダウンロードすることが煩わしい  
 
 ## URL
-  
+  https://chat-app-33923.herokuapp.com/  
 
 ## BASIC認証
 ユーザー名：masaomi  
